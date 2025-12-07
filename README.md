@@ -9,15 +9,15 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.khalidkhalel.com/" title="Website"><img width="32px" alt="Website" src="https://img.icons8.com/ios/50/64FFDA/internet.png"/></a>
+  <a href="https://www.khalidkhalel.com/" title="Website"><img width="32px" alt="Website" src="https://img.icons8.com/ios/50/8B5CF6/internet.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.khalidkhalel.com/resume.pdf" title="Resume"><img width="32px" alt="Resume" src="https://img.icons8.com/ios/50/64FFDA/resume.png"/></a>
+  <a href="https://www.khalidkhalel.com/resume.pdf" title="Resume"><img width="32px" alt="Resume" src="https://img.icons8.com/ios/50/8B5CF6/resume.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/khalidkhalel" title="LinkedIn"><img width="32px" alt="LinkedIn" src="https://img.icons8.com/ios/50/64FFDA/linkedin.png"/></a>
+  <a href="https://linkedin.com/in/khalidkhalel" title="LinkedIn"><img width="32px" alt="LinkedIn" src="https://img.icons8.com/ios/50/8B5CF6/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/khalid.k615" title="Instagram"><img width="32px" alt="Instagram" src="https://img.icons8.com/ios/50/64FFDA/instagram-new--v1.png"/></a>
+  <a href="https://instagram.com/khalid.k615" title="Instagram"><img width="32px" alt="Instagram" src="https://img.icons8.com/ios/50/8B5CF6/instagram-new--v1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:contact.khalidk@gmail.com" title="Email"><img width="32px" alt="Email" src="https://img.icons8.com/ios/50/64FFDA/mail.png"/></a>
+  <a href="mailto:contact.khalidk@gmail.com" title="Email"><img width="32px" alt="Email" src="https://img.icons8.com/ios/50/8B5CF6/mail.png"/></a>
 </p>
 
 <br/>
@@ -68,4 +68,3 @@
 [![gprm.itsvg.in](https://img.shields.io/badge/gprm.itsvg.in-1F222E?style=for-the-badge&logo=gnometerminal&logoColor=00FFFF)](https://gprm.itsvg.in/)
 [![demolab.com](https://img.shields.io/badge/demolab.com-1F222E?style=for-the-badge&logo=gnometerminal&logoColor=00FFFF)](https://demolab.com/)
 [![github-readme-quotes](https://img.shields.io/badge/github--readme--quotes-1F222E?style=for-the-badge&logo=gnometerminal&logoColor=00FFFF)](https://github-readme-quotes-returns.vercel.app/)
-
