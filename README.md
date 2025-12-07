@@ -17,7 +17,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instagram.com/khalid.k615" title="Instagram"><img width="32px" alt="Instagram" src="https://img.icons8.com/ios/50/8B5CF6/instagram-new--v1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="contact.khalidk@gmail.com" title="Email"><img width="32px" alt="Email" src="https://img.icons8.com/ios/50/8B5CF6/mail.png"/></a>
+  <a href="mailto:contact.khalidk@gmail.com" title="Email"><img width="32px" alt="Email" src="https://img.icons8.com/ios/50/8B5CF6/mail.png"/></a>
 </p>
 
 <br/>
