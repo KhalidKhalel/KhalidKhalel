@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20%F0%9F%91%8B%2C%20I'm%20Khalid;Always%20learning%20new%20things!;Don't%20be%20shy%20say%20Hi!%20%F0%9F%98%84&font=Bitcount%20Prop%20Double%20Ink&center=true&width=440&height=45&color=64FFDA&vCenter=true&pause=8000&size=30&background=1A1B27&duration=5000" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there%20%F0%9F%91%8B%20I'm%20Khalid;Welcome%20to%20my%20Github!;Computer%20Science%20%7C%20Cybersecurity;Don't%20be%20shy%20say%20Hi!%20%F0%9F%98%84&font=Fira%20Code&center=true&width=600&height=50&color=8B5CF6&vCenter=true&pause=3000&size=30&background=1A1B27&duration=3000" /></a>
 </p>
 
 <br/>
@@ -36,7 +36,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" title="PHP"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="40" height="40"/></a>
@@ -64,7 +63,8 @@
 
 **Readme Generators:**
 
-[![gh-profile-readme-generator](https://img.shields.io/badge/gh--profile--readme--generator-1F222E?style=for-the-badge&logo=gnometerminal&logoColor=00FFFF)](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-[![gprm.itsvg.in](https://img.shields.io/badge/gprm.itsvg.in-1F222E?style=for-the-badge&logo=gnometerminal&logoColor=00FFFF)](https://gprm.itsvg.in/)
-[![demolab.com](https://img.shields.io/badge/demolab.com-1F222E?style=for-the-badge&logo=gnometerminal&logoColor=00FFFF)](https://demolab.com/)
-[![github-readme-quotes](https://img.shields.io/badge/github--readme--quotes-1F222E?style=for-the-badge&logo=gnometerminal&logoColor=00FFFF)](https://github-readme-quotes-returns.vercel.app/)
+[![gh-profile-readme-generator](https://img.shields.io/badge/🌐-gh--profile--readme--generator-01FFFF?style=for-the-badge&labelColor=1A1B27)](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+[![gprm.itsvg.in](https://img.shields.io/badge/🌐-gprm.itsvg.in-01FFFF?style=for-the-badge&labelColor=1A1B27)](https://gprm.itsvg.in/)
+[![demolab.com](https://img.shields.io/badge/🌐-demolab.com-01FFFF?style=for-the-badge&labelColor=1A1B27)](https://demolab.com/)
+[![github-readme-quotes](https://img.shields.io/badge/🌐-github--readme--quotes-01FFFF?style=for-the-badge&labelColor=1A1B27)](https://github-readme-quotes-returns.vercel.app/)
+
