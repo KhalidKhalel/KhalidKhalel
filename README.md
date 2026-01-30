@@ -67,9 +67,3 @@
 [![gprm.itsvg.in](https://img.shields.io/badge/🌐-gprm.itsvg.in-01FFFF?style=for-the-badge&labelColor=1A1B27)](https://gprm.itsvg.in/)
 [![demolab.com](https://img.shields.io/badge/🌐-demolab.com-01FFFF?style=for-the-badge&labelColor=1A1B27)](https://demolab.com/)
 [![github-readme-quotes](https://img.shields.io/badge/🌐-github--readme--quotes-01FFFF?style=for-the-badge&labelColor=1A1B27)](https://github-readme-quotes-returns.vercel.app/)
-
----
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Made%20by%20Khalid%20Khalel&font=Fira%20Code&center=true&width=300&height=30&color=8B5CF6&vCenter=true&pause=100000&size=18&duration=1" />
-</p>
-
